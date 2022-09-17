@@ -1,9 +1,9 @@
-# Venture-_Success_Predictor
+# Venture_Success_Predictor
 ---
 Binary classification model using a deep neural network
 
 
-[Google Colab Link:]( https://colab.research.google.com/drive/1LpW-ayOTwpAQVkVCPYTlnMvPaGVJwL_x?usp=sharing)
+[Google Colab Link:](https://colab.research.google.com/drive/1LpW-ayOTwpAQVkVCPYTlnMvPaGVJwL_x?usp=sharing)
 
 Background
 
