@@ -86,3 +86,16 @@ Upon launching the application  on Colab  run the file by clicking on the play b
 
 The result shows that with different parameters the  model 1 is producing almost similar performance metrics as the original model(loss:0.56, accuracy:0.76) while model 2 is perfoming low (loss:0.69, accuracy:0.52).
 
+## Contributors
+
+Manisha Lal 
+
+09/17/2022
+
+manisha.lal.2009@gmail.com
+
+---
+
+## License
+
+copyright 2022
