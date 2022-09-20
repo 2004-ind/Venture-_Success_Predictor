@@ -3,7 +3,7 @@
 Binary classification model using a deep neural network
 
 
-[Google Colab Link:](https://colab.research.google.com/drive/1LpW-ayOTwpAQVkVCPYTlnMvPaGVJwL_x?usp=sharing)
+[Google Colab Link:]https://colab.research.google.com/drive/1LpW-ayOTwpAQVkVCPYTlnMvPaGVJwL_x?usp=sharing
 
 Background
 
@@ -32,6 +32,7 @@ This project runs on python 3.7 and includes the following libraries and depende
 * StandardScaler
 * OneHotEncoder
 * GoogleColab
+* Jupyter Notebook
 
 ### Usage
 
@@ -42,6 +43,12 @@ To use this application just clone the repository on Google Colab and run the pr
 * The second cell will import the dependencies for use in the notebook.
 
 Upon launching the application  on Colab  run the file by clicking on the play button on the left of the each cell of the notebook. 
+
+Alternatively, to use this application on jupyter lab just clone the repository and run the **jupyterlab** by running the following command on your terminal:
+
+```jupyterlab```
+
+Upon launching the application  on jupyter lab run the file by clicking on the play button on top of the notebook.
 
 ---
 
@@ -56,7 +63,8 @@ Upon launching the application  on Colab  run the file by clicking on the play b
 * Loss function - 'binary_crossentropy'
 * number of epochs - 50
 
-![](Resources/original_model.png)
+
+![](Resources/model.png)
 
 ## Alternative Model 1 Result ##
 
@@ -68,7 +76,7 @@ Upon launching the application  on Colab  run the file by clicking on the play b
 * number of epochs - 70
 
 
-![](Resources/alt_model_1.png)
+![](Resources/model_1.png)
 
 ## Alternative Model 2 Result ##
 
@@ -81,10 +89,10 @@ Upon launching the application  on Colab  run the file by clicking on the play b
 * Loss function - 'binary_crossentropy'
 * number of epochs - 50
 
-![](Resources/alt_model_2.png)
 
+![](Resources/model_2.png)
 
-The result shows that with different parameters the  model 1 is producing almost similar performance metrics as the original model(loss:0.56, accuracy:0.76) while model 2 is perfoming low (loss:0.69, accuracy:0.52).
+The result shows that with different parameters the  model 1 is producing almost similar performance metrics as the original model(loss:0.56, accuracy:0.76) while model 2 is perfoming low (loss:0.730, accuracy:0.585).
 
 ## Contributors
 
